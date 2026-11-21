@@ -4,7 +4,7 @@
 
 I turn ideas into complete web applications using modern frontend frameworks, scalable backend services, databases, and cloud-ready workflows. My work spans portfolios and landing pages, AI-powered platforms, e-commerce systems, learning platforms, dashboards, and mobile-style web experiences.
 
-🌐 **Portfolio:** [abdullahanwar.tech](https://abdullahanwar.te)  
+🌐 **Portfolio:** [abdullahanwar.tech](https://abdullahanwar.tech)  
 💼 **LinkedIn:** [Abdullah Anwar](https://www.linkedin.com/in/abdullah-anwar-cs/)  
 💻 **Focus:** Full-stack web development and modern application design with strong fundamentals  
 📍 **GitHub:** [@Abdullah860259](https://github.com/Abdullah860259)
