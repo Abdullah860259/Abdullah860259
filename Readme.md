@@ -4,12 +4,12 @@
 
 I turn ideas into complete web applications using modern frontend frameworks, scalable backend services, databases, and cloud-ready workflows. My work spans portfolios and landing pages, AI-powered platforms, e-commerce systems, learning platforms, dashboards, and mobile-style web experiences.
 
-🌐 **Portfolio:** [abdullahanwar.tech](https://abdullahanwar.tech)  
-💼 **LinkedIn:** [Abdullah Anwar](https://www.linkedin.com/in/abdullah-anwar-cs/)  
-💻 **Focus:** Full-stack web development and modern application design with strong fundamentals  
-📍 **GitHub:** [@Abdullah860259](https://github.com/Abdullah860259)
+ **Portfolio:** [abdullahanwar.tech](https://abdullahanwar.tech)  
+**LinkedIn:** [Abdullah Anwar](https://www.linkedin.com/in/abdullah-anwar-cs/)  
+ **Focus:** Full-stack web development and modern application design with strong fundamentals  
+ **GitHub:** [@Abdullah860259](https://github.com/Abdullah860259)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | About | Stack |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ I turn ideas into complete web applications using modern frontend frameworks, sc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah860259&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in thoughtful projects, useful products, and opportunities to build something meaningful.
 
